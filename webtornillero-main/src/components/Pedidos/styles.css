@@ -1,0 +1,52 @@
+.contact-container {
+    width: 60%;
+    margin: 40px auto;
+}
+
+.add-product {
+    margin-top: 32px;
+}
+
+.product-view {
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-around;
+    background-color: aliceblue;
+}
+
+.item-view {
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-around;
+    background-color:antiquewhite
+}
+
+.product-desc {
+    margin: 0;
+}
+
+.product-section {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-section2 {
+    width: 20%;
+}
+
+@media (min-width: 700px) {
+    .product-section2 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.desc-section {
+    margin: 0;
+    font-weight: 700;
+}

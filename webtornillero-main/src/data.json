@@ -1,0 +1,80 @@
+[
+        {
+            "id": 1,
+            "name": "Test1",
+            "length": 20.2,
+            "price": 10.4,
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "Test2",
+            "length": 42.1,
+            "price": 21.2,
+            "category": 0
+        },
+        {
+            "id": 3,
+            "name": "Product3",
+            "length": 15.0,
+            "price": 7.99,
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "Item4",
+            "length": 30.5,
+            "price": 15.75,
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "Widget5",
+            "length": 10.2,
+            "price": 5.49,
+            "category": 0
+        },
+        {
+            "id": 6,
+            "name": "Gadget6",
+            "length": 18.7,
+            "price": 12.99,
+            "category": 2
+        },
+        {
+            "id": 7,
+            "name": "Product7",
+            "length": 25.8,
+            "price": 17.25,
+            "category": 1
+        },
+        {
+            "id": 8,
+            "name": "Device8",
+            "length": 22.0,
+            "price": 9.95,
+            "category": 1
+        },
+        {
+            "id": 9,
+            "name": "Item9",
+            "length": 28.3,
+            "price": 19.99,
+            "category": 2
+        },
+        {
+            "id": 10,
+            "name": "Widget10",
+            "length": 12.1,
+            "price": 8.75,
+            "category": 0
+        },
+        {
+            "id": 11,
+            "name": "Product11",
+            "length": 35.6,
+            "price": 24.5,
+            "category": 2
+        }
+    ]
+

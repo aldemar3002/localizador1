@@ -1,0 +1,103 @@
+.backgorund-image {
+    width: 100%;
+    height: calc(70vh - 105px);
+    opacity: .5;
+    object-fit: cover;
+    background-color: #000;
+}
+
+.text {
+    position: absolute;
+}
+
+
+.carousel-item {
+    background-color: #000;
+}
+
+.sols {
+    width: auto;
+}
+
+.plus-section {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.crop-icon {
+    object-fit: cover;
+    width: 58px;
+}
+
+.plus-section-icons {
+    height: 50px;
+    width: 50px;
+    filter: invert(19%) sepia(99%) saturate(1809%) hue-rotate(205deg) brightness(89%) contrast(92%);
+}
+
+.btn-primary {
+    background-color: #10499c;
+    color: #ffda18;;
+    border: #10499c;
+}
+
+.plus-section-text {
+    color: #10499c;
+    font-weight: 700;
+}
+
+.contact-form {
+    width: 80%;
+    margin: auto;
+}
+
+.mission-picture {
+    position: relative;
+    text-align: center;
+    color: white;
+    opacity: .4;
+    width: 49.85vw;
+    height: 50vh;
+    object-fit: cover;
+}
+
+.img-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.values-container {
+    height: 50vh;
+}
+
+.maps-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.maps-container iframe{
+    width: 80% !important;
+height: 80% !important;
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
+}
+
+.google-maps iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100% !important;
+height: 100% !important;
+}
