@@ -1,0 +1,22 @@
+.App {
+  height: 100vh;
+}
+
+::-webkit-scrollbar
+{
+	width: 5px;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	background-color: #10499c;
+}
+
+::-webkit-scrollbar-track
+{
+	border-radius: 10px;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
